@@ -1,0 +1,8 @@
+
+from import Image
+
+im = Image.open('bike.png')
+
+im.show()
+
+print  'rolland'
