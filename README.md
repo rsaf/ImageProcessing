@@ -1,1 +1,1 @@
-//master thesis project
+image segmentation project
